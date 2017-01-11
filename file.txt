@@ -1,4 +1,7 @@
 hellow world
 hello world
 hellow world
-change to fileon master bracnch
+
+change to file on master branch
+added to master branch
+added to newBranch
